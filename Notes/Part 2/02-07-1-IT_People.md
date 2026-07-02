@@ -1,0 +1,76 @@
+# Global "Body Shopping": An Indian Labor System in the IT Industry
+
+Ref: Chapter 2: Producing IT "People" in Andhra by Biao Xiang
+
+- What does technology do to marriage practices?
+- India's success in IT: cheap labor resources
+- Body Shopping:
+	- Indian practice where Indian run consultancy (body shop) recruits IT workers to be places out as project-based labor with different clients
+	- Manages workers on behalf of employers (salary, acom, visa)
+	- Body: labor intensive nature of work
+	- Shopping: quick and easy purchase
+- Andhra Pradesh:
+	- Chandrababu Naidu: 1995 CP
+	- 1995-2000: 75 pvt engg clgs in AP compared to 26 (govt+pvt_ between 1926-1989.
+	- Education was emigration oriented
+- D Shops and T Shops (70% did this):
+	- D Shop (pvt clgs): 
+		- selling degrees without imparting practical knowledge
+		- profit making via student fee
+		- Sold thier degrees as "we are following trends from XYZ foreign unis"
+		- Takes 5 cr to set up a pvt engg clg -> high tuition fee
+	- T Shop (pvt training institutes): 
+		- selling technical skills. 
+		- People enrolled in clgs also took courses in T shops
+		- follows US market to understand the trends and needs
+- NIIT:
+	- global connections + local strategies
+	- focused on the countryside
+	- Global Connections: In 1996 NIIT prepared 18000 students to take Microsoft Certified System Enggs (MCSD) examinations, ans about 2,000 had passed within 6 months. 
+	- MSFT designated NIIT as premium education
+	- Franchises model:
+		- Franchises can enter a local market, students were given incentives to rope in their friends
+		- executives tracked potential students in villages
+	
+- Agriculture and IT industry:
+	- Mostly rural town, agri background
+	- Mostly coastal Andhra: 4 districts that are agriculturally the richest in India
+	- Agri surplus was diverted to higher education
+	- 80% of the overall investments in pvt clgs were estimated to originate from agri surplus
+- Caste Composition:
+	- Majority: Kamma and Reddy (cultivator class)
+	- Kamma: Richest group in AP (50% of large businesses in Hyd were owned by Kammas)
+	- Reddy: heterogenous, geographically dispersed grps
+	- Education helped in rise of these castes (social mobility) -> Sanskritization
+	- Played significant role in anti-Brahmin movement
+	- Set up western style schools for all castes
+	- Kammas set up Sanghas (associations: scholarships for higher studies. 
+	- Formerly poor Reddys as wells as Kapus (middle class) as  'rural middle class'. They also saw education as a means to fortify their newly achieved status
+- Dowry:
+	- Chronic underdevelopment in rural areas encouraged families with the means to invest even more in education in order to move out
+	- Central element to historical dynamics of cas
+- Dowry and IT Industry:
+	- High dowry cases among families with successful IT sons
+	- Before 1996, exchange or arranged marriage within relatives who formed in marriage circle, occasionally with bride price
+	- After 1996, dowry became norm among educated youth, started with a docter.
+	- Modernization and global mobility did not make Andhra less orthodox.
+	- Conservative ideas of marriage prevails: intra-caste, arranged marriage
+	- Non-educated girls: high dowry to compensate the 'inferiority'
+	- IT grooms demand higher dowry. If the groom was  based on US, the dowry could go up to USD 120,000
+- No Local Arrangements, full fledged marriage market
+	- once the marriage market is disembedded from social relationships, sheer economic calculation overwhelmed other considerations, and along with traditional caste and horoscope compatibilities, occupation, income, and property are ruthlessly assessed and compared
+- Dowry and IT Industry:
+	- High Dowry viewed as direct reimbursement fro investment in son's educations
+	- It was common as marriage negotiations to present the bride's kin with a detailed breakdown of the costs of the grooms pvt education over the years and demand dowry accordingly
+	- Changes in composition of dowry:
+		- Earlier: gold, cash, furniture, utensils
+		- Present: expensive articles, real estates, stocks, destination wedding
+- Dowry as a forward selling or futures market:
+	- Offering to pay for clg fees or sponsor emigration
+	- Dowry as sponsorship not always beneficial for the man: chronic mental torture: not finding proper job, not being able to adjust to the American culture
+- Dowry giving and receiving were thus inherently linked
+	- IT Jobs: increased families' capacity to pay high dowry for sister
+	- The dowry offered indicated a family's social status, on which the family could, in turn, base their claims for the son's dowry
+	- Massive layoff of IT workers in 2001: server blow in their position in the marriage market: 70% drop in dowry rate for IT people in Hyderabad
+	- Dowry: a relation between, men, women and material resources and the next question is how those material resources get passed on
+	- Extended family networks facilitated long term investments and support

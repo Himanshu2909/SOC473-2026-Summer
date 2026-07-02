@@ -1,0 +1,29 @@
+- to be able to break free from the immediacy of personal circumstances and put things in a wider context
+- Sociological Imagination: Mills 1970
+	- think ourselves away
+- drinking coffee: ritual more important than the act itself: 
+	- personal routine: 
+		- morning coffee: essential first step in the morning
+		- day coffee: social ritual
+	- socially acceptable drug, unlike weed
+		- why this happens
+		- why certain societies tolerate weed, but not alcohol and coffee
+		- why tolerate weed, but not cocaine
+	- socio-economic analysis:
+		- grown in poor countries, consumed in rich
+		- most valuable commodity in international trade -> largest source of foreign exchange for some countries
+		- study of these global transactions is important part of sociology 
+	- Act of sipping a coffee
+		- relation to colonization
+		- originates from middle east, but currently comes from ex-colonies like south maerica, africa
+	- Human Rights, Environmental destruction, international trade, globalization
+		- branding of coffee
+		- consumer lifestyle decisions
+		- globalization -> greater awareness about issues from around the world -> people act on this knowledge and alter their daily decisions 
+- Personal issues might be a manifestation of larger issues:
+	- divorce, unemployment
+	- private decisions reflects one's position in the larger society
+- SOCIAL STRUCTURE
+	- social contexts of our lives do not consist just of random assortments of events or actions: they are structured or patterned in different ways
+	- there are regularities in the way we behave in the relationships and we behave with one another
+	- human societies always in the process of structurization

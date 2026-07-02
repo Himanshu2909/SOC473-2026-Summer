@@ -1,0 +1,62 @@
+# Match Fixing in Hyderabad: Engineer Briders, Software Grooms and Negotiated Matrimonies
+
+References: V Kalyan Shankar, Rohini Saini
+
+- Changes in education, employment and migration have influenced marriage, family and kinship patterns. 
+- The existence of filters in marriage is not new. Traditional filters such as caste, sub-caste and horoscope matching continue with the same fervor.
+- Marriages work on the principles of preferences
+- Dynamic econ opps alter the existing internal hierarchies, generating an internal churn in social status
+- Questions to ask: What role do education, employment and migration feed into matrimonial compatibility
+
+
+- Conditionality (traditional) and Preference (acquired traits)
+	- Caste and horoscope v/s. qualification and employment
+	- Brahmin software engg is more of Brahmin
+- New and equally stringent conditions are getting superimposed such as the preference for enggs and of studying or working in the US. 
+- Profession based endogamy
+	- Engineers v/s others (made possible by investment in engg education in ANdhra, surging enrolments improved gender ratio)
+	- Filtering in matrimonial choices, i.e. an education-centric/engg-centric endogamy has emerged
+	- It gets extended to the employment markets, particularly to the software/IT domain and it's high income generating possibilities
+	- The software pool therefore becomes a composite of education and/or income based endogamies
+- Conditionality: Bureau as a new filtering agent
+	- 'Only for Brahmins' bureau
+	- They distinguish themselves from multi-caste online sites (like shaadi.com), which entertain participants from different castes even while segregating them on caste-lines
+- Desired Partner in text form:
+	- The profiles put up in the registries of marriage bureaus or on websites: highlight information on goals in life, SoP, achievements, terms of past and rpesent employment
+- 'Looking for a Simple Girl':
+	- But the characteristics of a simple girl is filled with contradictions
+	- Defn: not unintelligent, lack of 'competitive' education like engg
+	- Looking for: humble and down to earth, "adjusting" to a newer household, 'respect for elders', 'following traditions' etc
+	- Intent behind seeking a simple girl - linked to alleviating the potential 'tensions' etc
+- 'Simple BOy with Clean habits'
+	- family oriented
+	- supportive of a working wife
+	- non-smoking, non-drinking, veg
+	- no hidden lovers
+- Simple Traditional Girl with modern outlook
+	- accepts arrange marriage but online
+	- tradition in cultural markers: language, music
+	- modern education and jobs highlighted for those who live in smaller places
+	- girls from west/east city
+	- photo: temples/flashy cars
+- "Well Educated Boy"
+	- assumed narrower meaning, restricting the scope of participants and choices - "Engg v/s rest"
+	- Engg: ordinary places
+	- Engg from reputed insti
+	- Engg with MS from abroad
+- More on this
+	- End of patrilocality: there were cases of girls specifying the locations where they are willing to migrate post marriage/or not willing
+	- On boys side, it has lead to specific partner requirements: "looking for well educated girl willing to relocate post marriage"
+	- Specify where the boy will be present in a given period of time
+- Changes marked:
+	- Norms of caste endogamy persisted
+	- Negotiation for marriage involve multiple rounds of filtering and shortlisting
+	- Criteria being education, employment and location (Bay area v/s rest), institutional elitism
+- Dowry:
+	- Some profiles stating upfront "those seeking dowries may excuse us"
+	- **Biao** links IT grooms with high dowries
+		- argument of parents of daughters: "our daughter is also an engg, she is earning just the same"
+- Locality:
+	- neither partilocal not matrilocal or joint family - rather preference for neo-local or nuclear fam is given more importance
+	- shift from traditional match making when kin relatives played a significant role and also in giving views in mate selection/preference
+- 
