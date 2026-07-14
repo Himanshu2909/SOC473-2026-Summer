@@ -1,0 +1,77 @@
+\# Muslim Personal Law in India: A Sociological Exploration
+
+"Muslim women seek civil divorces in India on the same ground as their Hindu and Christian neighbours" -> Incorrect statement due to dissolution of Muslim Marriage Act 1939
+
+- Dissolution of Muslim Marriage Act 1939
+	- Rohit De "Mumtaz Bibi's broken heart: Many Lives of the dissolution of muslim marriages act"
+	- The Indian Economic and Social History Review 2009
+- Shariah: refers to the totality of divine guidance and commandments revealed by Allah, ecompassing beliefs (Aqeedah), ethics (Akhlaq) and practical rules governing worship and social Life (Fiqh). 
+- Fiqh: interpretation of Sharia that produces Islamic legal rulings in the practical aspects of life such as worship (Ibadat), marriage, guardianship, business transactions, inheritance etc.
+- Sources of Sharia:
+	- Quran
+	- Hadith
+	- Ijma
+	- Qiyas
+- Shia: Ithna, Ashari, Ismaili
+- Sunni: Shafi, Hanafi, Hanbali, Maliki
+- NUmerous sects and groups exist within India, and most of them are affiliatedwith one of the schools of thought mentioned above. There are also some groups that do not adhere to any established school of thought and instead rely on their own independent interpolations and reasonings
+- FATAWA
+	- A non binding legal opinion. Issued by a qualified Islamic scholar (Mufti) given in response to a specific question
+	- It is non-enforceable, different from a court judgement. Represents an expert legal opinion within Islamic jurisprudence
+- Anglo-Mohammedan Law
+	- Under the 1772 regulations, Gov Gen Warren Hastings had brought in religion based family laws
+	- But it was now the company and the courts who would administer it
+	- A relatively fluid localized system of Islamic Law to a reified and static entity through colonial Codification. Codified and adjudicated by the British jurists.
+- The Women's Question and Islam
+	- Muslim Personal Law (Shariya) Application Act, 1937: 
+		- aimed at securing uniformity of law among Muslims in all their social and personal relations
+		- It also recognized and did justice to the claims of women for inheriting familty property who, under customary law are debarred from succeeding to the same
+	- Dissolution of Muslim Marriage Act 1939
+		- Gave Muslim women the right to sue for divorce before Indian Courts
+		- Muslim women gained the right to dissolve a marriage almost two decades before Hindu women, ans could also due under a larger number of grounds than those available to their Christian counterparts in India and women in Britain
+	- All India Women's Conference (AIWC) was founded in 1927
+- Itwari V. Smt.Asghari Begum and others 1960: The question before the Allahbad HIgh Court was whether the taking of a second wife by a Muslim man was a valid ground for his first wife to refuse to live with him.
+- Divorce for Hanafi Muslim Women
+	- Hanafi women has very limited rights for divorce as opposed to unilateral divorce by men.
+	- **Very interesting coalition between reformers, conservative Ulama, nationalist politicians, colonial civil servants and women's rights groups**
+	- **Muslim law and women's rights were not in opposition in the case of DMMA, as it was in the Shah Bano case**
+- Hanafi Women's Lack of Rights:
+	- The husband could delegate his right to divorce to his wife on certain conditions specified in the marriage contract, known as the 'talaq-e-tafwid'. The wife could thus pronounce divorce on herself if the husband breached those conditions
+	- Second, Muslim women could ask for a 'Khula', but but it had a very short time frame. And she had to return her Mahr. 
+	- Most popular was apostasy or renunciation of Islam.
+- The debates over the status of Muslim women framed them as victims who had been wronged by Muslim men, the community and the colonial state and who could be rescued with the restoration of Islamic Law
+- **The DMMA extended ground only available under Maliki Law to Hanafis in India:** Muslim Women could approach the court to dissolve their marriage if:
+	- the whereabouts of the husband were not known for four years
+	- if her husband hand failed to maintain her for two years
+	- if he had been sentences to lengthy imprisonment
+	- if he had failed to perform his marital obligations
+	- if he was impotent, insane, or suffered from leprosy or some venereal disease
+	- and if she has been married as a minor and had repudiated the same before turning 18
+- Divorce on the grounds of cruelty:
+	- broadly to include physical and mental cruelty
+	- deprivation of her property
+	- prevention of the wife's exercise of legal rights
+	- immorality, obstruction of religious practices
+	- failure on the part of the husband to treat all his wives equitably, in accordance with the unjuctions of the Quran
+- Orthodox reaction to proposed bill:
+	- Plurality of grounds now available to the wife alarmed the few orthodox opponents of the bill. It was said that these grounds would permit 'some 25% of Muslim women to divorce their husbands'
+	- "when ignorant and inexperienced women who take advantage of this new social regime"
+- Takhayur: 
+	- The application of Maliki law to Hanafi Sunnis and Shia's was a radical shift in the way Muslim persoal law in the subcontinent had been conceptualized and administered.
+	- The authors of the bill had to use a little practised but recognised principle in Islam jurisprudence called takhayur (eclecticism), the picking and choosing between the opinions of recognised jurists to find a solution to the problem.
+- Why so many diverse groups came together to support the bill?
+	- Conservative clergy
+	- Since 1927, national women's organizations have been passing resolutions calling for legislation to grant Mnuslim women the right to divorse
+	- In 1931, the Begum of Bhopal, the patroness of All India Muslim Ladies conference, consulted various ulama and enacted a code in the princely state of Bhopal which provided that in cases where parties were not able to ...
+- To be heard only by Muslim Judges
+	- Difference grew between conservative ulema and reformist Muslim judges and the british admin
+	- THe strongest opposition came from the colonial govt: it questioned their legitimacy
+	- Finally, it was deleted
+- The construction of Muslim personal law as backward is ironic, given that Hindu conservatives in the 1950s had attacked the 'progressive' Hindu Code Bill on the grounds of that the draft code was 90% Muhammadan law.
+- In the 1950s, divorce, inheritance by women and guardianship rights of the mother - while radical innovations of Anglo-Hindu law - were established precepts of the Anglo-Muhammadan law
+- THE author also observes:
+	- Muslim women unline their Hindu and Christian counterparts had the right to arrange their own marriage, the right to remarry as a window, the right to own and inherit property, be parties to a contract, the partial right to guardianship and custody of children and even had independent legal personhood during marriage
+	- It was noted by the Privy Council that the Muslim women had rights against her husband that even an English women did not have
+- Looking at court cases:
+	- The colonial law reporters bear testimony to the fact that Muslim women despite being supposedly secluded from the public sphere, engaged in significant economic and legal activity
+	- Compared to Hindu or Indian Christian women, suits involving Muslim women, in many cases initiated by their demands for unpaid Mehr or shared of inheritance, appear with regularity
